@@ -1,4 +1,4 @@
-# Modern Title
+# Use symbols people already understand.
 
 ## Original (French)
 
