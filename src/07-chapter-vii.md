@@ -34,14 +34,14 @@ The purpose of these delicate fictions is to make thought concrete—to render a
 
 Le Mierre, in his poem on painting, was therefore right to write:
 
-Thus Allegory may at times assist Art;
-But often an artist invents at random,
-And merely to perplex me with a useless enigma
-Perches with the Sphinx upon the Theban rock.
-My impatient eye, wearied by the canvas,
-Leaves amid its mists the poorly indicated meaning.
-Meaning should be clear, though it changes its form;
-Allegory dwells in a transparent palace…
+> Thus Allegory may at times assist Art;
+> But often an artist invents at random,
+> And merely to perplex me with a useless enigma
+> Perches with the Sphinx upon the Theban rock.
+> My impatient eye, wearied by the canvas,
+> Leaves amid its mists the poorly indicated meaning.
+> Meaning should be clear, though it changes its form;
+> Allegory dwells in a transparent palace…
 
 This same need for clarity led Denis Diderot to tell the painters of his day:
 
