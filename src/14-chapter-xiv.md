@@ -8,9 +8,6 @@ Indépendamment des devoirs que nous venons d’énumérer, 1l en est d’autres
 
 Prenons un autre exemple. Nous demandons à un sculpteur en bois de confectionner un tabouret de salon. Il fait ce tabouret carré, à quatre pieds, suivant les principes de son art; et pour plus de solidité, il relie les quatre pieds par : un croisillon; puis il dispose sur ce croisillon — dans l’entrejambe par conséquent de son tabouret — le motif principal de son ornementation. Eh bien! notre sculpteur commet, lui aussi, une hérésie contre le bon sens, car il perd de vue l'usage et la destination du meuble qu’on lui demande. Celui-ci, étant construit pour servir de siège, ne peut être placé que sur le sol; il sera, par suite, considéré de haut, et dès lors sa partie décorée, si elle est disposée entre les pieds, demeurera forcément invisible.
 
-![Fig. 13. — Petite pendule de boudoir en ivoire, or et argent émaillé, exécutée par MM. Bapst et Falize.](../images/fig-13.png)
-_Fig. 13. — Petite pendule de boudoir en ivoire, or et argent émaillé, exécutée par MM. Bapst et Falize._
-
 ## Translation
 
 **XIV — When an object has a specific purpose, when it has been designed and made for practical use, and especially when its principal reason for existing lies in that use, the desire to embellish it must never obstruct that purpose or disguise the reason for its existence.**
@@ -37,5 +34,7 @@ Here again, the sculptor commits an offense against common sense, because he los
 
 Since the stool is made to serve as a seat, it can only stand on the floor and will therefore be seen from above. The decorated portion, placed between the legs, will necessarily remain invisible.
 
-![Fig. 13. — Small boudoir clock in ivory, gold, and enameled silver, executed by Messrs. Bapst and Falize.](../images/fig-13.png)
+## Images
+
+![Fig. 13. — Petite pendule de boudoir en ivoire, or et argent émaillé, exécutée par MM. Bapst et Falize.](../images/fig-13.png)
 _Fig. 13. — Small boudoir clock in ivory, gold, and enameled silver, executed by Messrs. Bapst and Falize._

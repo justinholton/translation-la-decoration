@@ -8,9 +8,6 @@ Dans le choix et dans l'interprétation de ses sujets, le décorateur est encore
 
 Mais, nous l’avons déjà dit, il arrive souvent que le choix des sujets n’est pas laissé au décorateur; et ces motifs mal appropriés lui sont imposés par la personne dont il tient la commande ou par son architecte. Dans ce cas, notre artiste peut résoudre le problème en donnant à la scène qu'il représente un aspect suffisamment conventionnel. Lui demande-t-on de figurer les Saisons : il symbolisera l'hiver sous la forme d’un vieillard accroupi et se chauffant, d'enfants entourant un foyer, ou, si cela paraît un peu vieillot, il dessinera de gracieux patineurs, comme le fit Watteau (voir fig. 12), mais en prenant soin d'envelopper la scène d’arabesques qui assignent à cette représentation un caractère exclusivement décoratif. Exige-t-on qu'il prenne pour sujet de sa décoration une série d'actions se reliant entre elles, empruntées à la fable, à l’histoire ou au roman, et comprenant des épisodes qui s'accordent mal avec la clarté ou la température de la pièce : il aura soin d’enfermer chacun de ses épisodes dans un cartouche agréablement dessiné; et en isolant ainsi sa composition, il évitera le désaccord fâcheux que produirait le voisinage immédiat de parois soumises à un éclairage plus intense ou à une température différente.
 
-![Fig. 12. — Panneau de tapisserie représentant l'hiver, composition d'A. Watteau.](../images/fig-12.png)
-_Fig. 12. — Panneau de tapisserie représentant l'hiver, composition d'A. Watteau._
-
 ## Translation
 
 **XI — Finally, the nature of the subjects represented should also harmonize with the degree of light and temperature to which the decoration is ordinarily exposed.**
@@ -29,5 +26,7 @@ If he is asked to represent the Seasons, he may symbolize Winter as an old man c
 
 If he is required to illustrate a sequence of actions drawn from fable, history, or the novel—and some episodes conflict with the brightness or warmth of the room—he should enclose each scene within an elegantly designed cartouche. By isolating the composition in this way, he avoids the disagreeable contrast that would result from placing such imagery directly against walls subject to stronger light or a different atmosphere.
 
-![Fig. 12. — Tapestry panel depicting Winter, composition by A. Watteau.](../images/fig-12.png)
+## Images
+
+![Fig. 12. — Panneau de tapisserie représentant l'hiver, composition d'A. Watteau.](../images/fig-12.png)
 _Fig. 12. — Tapestry panel depicting Winter, composition by A. Watteau._

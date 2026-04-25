@@ -10,8 +10,6 @@ Enfin, ce n’est pas seulement la destination de la surface ou de l’objet qui
 
 Ainsi, et pour nous résumer, quelle que soit la liberté qu’on laisse au décorateur, cette liberté ne doit jamais violenter ou contredire la forme qu’il a pour mission d’orner. L'artiste, au contraire, par l’ingénieuse répartition de son ornementation, doit s'appliquer à rendre cette forme bien lisible. Il doit en souligner les traits principaux, en accentuer le caractère.
 
-![Fig. 10. — Exemple fautif de décoration commençant sur le fond d’un plat et se continuant sur le rebord. (Faïence italienne de la fin du xvie siècle.))](../images/fig-10.png)
-
 ## Translation
 
 **VI — When the artist is free to choose the subject, that choice must be made with the greatest care. It must harmonize not only with the nature and purpose of the room, building, or object being decorated, but also with its particular form.**
@@ -30,4 +28,7 @@ Is it not somewhat absurd, for example, to depict a battle across the rounded bo
 
 In summary, no matter how much freedom the decorator is given, that freedom must never contradict or fight against the form it is meant to adorn. On the contrary, through thoughtful arrangement, the artist should make the form clearly legible—emphasizing its main features and reinforcing its character.
 
-![Fig. 10. — An example of faulty decoration, beginning on the bottom of a dish and continuing onto the rim. (Italian faience, late 16th century.))](../images/fig-10.png)
+## Images
+
+![Fig. 10. — Exemple fautif de décoration commençant sur le fond d’un plat et se continuant sur le rebord. (Faïence italienne de la fin du xvie siècle.))](../images/fig-10.png)
+_Fig. 10. — An example of faulty decoration, beginning on the bottom of a dish and continuing onto the rim. (Italian faience, late 16th century)._

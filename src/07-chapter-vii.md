@@ -12,11 +12,15 @@ En conséquence, lorsque l’ornementation d’une surface est, de par la volont
 > Mais souvent un artiste imagine au hasard,
 > Et pour m'embarrasser par une énigme vaine
 > Se perche avec le Sphinx sur la roche Thébaine; Mon œil impatient, par la toile offusqué,
-> Laisse dans ses brouillards le sens mal indiqué. Le sens doit être clair, quoiqu'il change d’organe; L'Allégorie habite un palais diaphane ...
+> Laisse dans ses brouillards le sens mal indiqué. Le sens doit être clair, quoiqu'il change d’organe; L'Allégorie habite un palais diaphane <sup>1</sup>...
 
-C'est ce même besoin de clarté qui faisait dire par Diderot aux peintres de son temps : « N’inventez de nouveaux personnages allégoriques qu'avec sobriété, sous peine de devenir énigmatiques. »
+C'est ce même besoin de clarté qui faisait dire par Diderot aux peintres de son temps : « N’inventez de nouveaux personnages allégoriques qu'avec sobriété, sous peine de devenir énigmatiques.<sup>2</sup> »
 
 « L'image que l’allégorie offre à nos regards, est-il nécessaire de l’ajouter ? doit encore être, autant que possible, agréable, aimable, gracieuse. Elle doit présenter l’idée qu’elle se propose d'exprimer sous sa face la plus avantageuse. Elle doit, de plus, être simple, c'est-à-dire sans mélange d’objets inutiles, sans stériles complications d’attributs. L'usage, enfin, doit en être sagement limité. L'abus de l’allégorie est une faute. »
+
+<sup>1</sup> La Peinture, poème par M. Le Mière, p. 60.
+
+<sup>2</sup> Pensées détachées sur la peinture (Œuvres complètes, tome IV, p. 534).
 
 ## Translation
 
@@ -41,10 +45,14 @@ Le Mierre, in his poem on painting, was therefore right to write:
 > My impatient eye, wearied by the canvas,
 > Leaves amid its mists the poorly indicated meaning.
 > Meaning should be clear, though it changes its form;
-> Allegory dwells in a transparent palace…
+> Allegory dwells in a transparent palace…<sup>1</sup>
 
 This same need for clarity led Denis Diderot to tell the painters of his day:
 
-“Invent new allegorical figures only sparingly, lest you become obscure.”
+“Invent new allegorical figures only sparingly, lest you become obscure.”<sup>2</sup>
 
 Need it be added that the image offered by allegory should also, as much as possible, be pleasing, gracious, and attractive? It should present the idea it expresses in its most favorable form. It should also be simple—that is, free from useless objects and sterile complications of attributes. Finally, its use should be wisely limited. Excessive use of allegory is a fault.
+
+<sup>1</sup> Painting, a Poem by M. Le Mière, p. 60.
+
+<sup>2</sup> Detached Thoughts on Painting (Complete Works, Vol. IV, p. 534).
