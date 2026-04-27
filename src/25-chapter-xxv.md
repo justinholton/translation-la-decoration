@@ -16,7 +16,7 @@ Ces quelques observations suffisent, semble-t-il, à montrer combien l'étude qu
 
 ## Translation
 
-XXV. — Like colors, lines also have their own language. According to their nature and the place they occupy, according to the contours they help to form, they can affect our minds and give rise to particular feelings.
+**XXV. — Like colors, lines also have their own language. According to their nature and the place they occupy, according to the contours they help to form, they can affect our minds and give rise to particular feelings.**
 
 What we have just said of colors applies equally to lines.
 
