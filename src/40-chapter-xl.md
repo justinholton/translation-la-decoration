@@ -1,10 +1,10 @@
-# Upward gestures excite; Downward gestures calm.
+# Upward gestures excite; Downward gestures sadden.
 
 ## Original (French)
 
 **XL. — LA LIGNE BRISÉE, ÉTANT LA REPRÉSENTATION GRAPHIQUE DU MOUVEMENT ET DE LA VIE, EXPRIME, SUIVANT LA DISPOSITION QU ELLE AFFECTE, DES IDÉES DE TRISTESSE OU DE GAIETÉ.**
 
-Humbert de Superville, dans un ouvrage peu connu et rempli cependant de vues ingénieuses!, démontre, à l’aide des trois figures ci-contre, qu'il suffit d’un certain déplacement des lignes fondamentales du visage humain, pour faire signifier à celui-ci des sentiments non seulement différents, mais radicalement contradictoires. Lorsque ces lignes sont horizontales (fig. 33) la physionomie exprime un repos parfait. Se relèvent-elles de façon à former un angle aigu dont la pointe est dirigée vers le sol, la physionomie (fig. 34) exprime une certaine gaieté. Lorsque l'angle dresse, au contraire, sa pointe en l’air (fig. 35) les traits prennent un accent de désolation fort remarquable. La constatation faite par Humbert de Superville est-elle absolument nouvelle ? Assurément non. Mais au mérite d’être amusante elle joint l'avantage de préciser et de rendre saisissante une remarque que tout le monde a pu faire, sans en bien saisir l’intérêt et la portée.
+Humbert de Superville, dans un ouvrage peu connu et rempli cependant de vues ingénieuses<sup>1</sup>, démontre, à l’aide des trois figures ci-contre, qu'il suffit d’un certain déplacement des lignes fondamentales du visage humain, pour faire signifier à celui-ci des sentiments non seulement différents, mais radicalement contradictoires. Lorsque ces lignes sont horizontales (fig. 33) la physionomie exprime un repos parfait. Se relèvent-elles de façon à former un angle aigu dont la pointe est dirigée vers le sol, la physionomie (fig. 34) exprime une certaine gaieté. Lorsque l'angle dresse, au contraire, sa pointe en l’air (fig. 35) les traits prennent un accent de désolation fort remarquable. La constatation faite par Humbert de Superville est-elle absolument nouvelle ? Assurément non. Mais au mérite d’être amusante elle joint l'avantage de préciser et de rendre saisissante une remarque que tout le monde a pu faire, sans en bien saisir l’intérêt et la portée.
 
 Déjà, dans un précédent paragraphe (XXXe proposition) nous nous sommes préoccupé de l’impression produite par la contemplation des divers angles formés par la rencontre de deux diagonales; ici la démonstration est sensiblement différente, car la ligne brisée symétrique n’emprunte pas, comme dans la proposition antérieure, sa valeur sentimentale à l’acuité plus ou moins grande de son angle central, mais, au contraire, à l'inclinaison plus ou moins accentuée des branchements qui s’éloignent le plus de cet angle. Pour le démontrer, élargissons le cadre de notre observation, et prenons sinon un homme, du moins un pantin, et au lieu de mouvementer seulement son visage, agitons encore ses bras. Grâce au double mouvement que présentent nos figures 36 et 37, nous obtiendrons des deux côtés de nos petits bonshommes des angles nouveaux qui conserveront à l'un d’eux son aspect désolé, et achèveront de donner à l’autre un air de contentement indiscutable. Dans chacune de ces figures, cependant, l'angle central est différent de celui qui donnait un caractère si frappant à notre démonstration précédente. On peut donc en déduire que la sigmification sentimentale d’une ligne brisée résulte exclusivement de la disposition de ses derniers branchements, et la preuve c’est que si nous appliquons une disposition analogue aux petites physionomies empruntées à Humbert de Superville, nous constaterons que leur expression n’est en aucune façon modifiée par l’adjonction de l'angle pointé qui relie dans chacune d'elles les deux lignes des yeux (voir fig. 38 et 39).
 
@@ -12,11 +12,13 @@ Que conclure de là, car toutes nos observations tendent à des résultats prati
 
 Les acrotères placés aux extrémités des frontons romains en corrigent l’austérité et ajoutent quelque gaieté à la façade. Cent exemplés, au surplus, seraient à citer de l’emploi pour ainsi dire instinctif de cette règle, qui, croyons-nous, n’avait jamais été clairement formulée.
 
+<sup>1</sup> Les Signes inconditionnels de l’art.
+
 ## Translation
 
 **XL. — The broken line, being the graphic representation of movement and life, expresses—according to the arrangement it takes on—ideas either of sadness or of gaiety.**
 
-Humbert de Superville, in a little-known work nevertheless full of ingenious ideas, demonstrates through the three accompanying figures that it takes only a slight displacement of the fundamental lines of the human face to make it express sentiments not merely different, but radically contradictory.
+Humbert de Superville, in a little-known work nevertheless full of ingenious ideas<sup>1</sup>, demonstrates through the three accompanying figures that it takes only a slight displacement of the fundamental lines of the human face to make it express sentiments not merely different, but radically contradictory.
 
 When these lines are horizontal (fig. 33), the expression conveys perfect repose.
 
@@ -57,6 +59,8 @@ The slight projection marking the beginning of a staircase ramp removes some of 
 The acroteria placed at the extremities of Roman pediments correct their austerity and add a certain gaiety to the façade.
 
 A hundred examples, moreover, could be cited of the almost instinctive use of this rule, which, we believe, had never before been clearly formulated.
+
+<sup>1</sup> The Unconditional Signs of Art
 
 ## Images
 
